@@ -7,3 +7,6 @@ attempt to predict monthly asset returns with machine learning resulted poorly. 
 have successfully implemented a portfolio estimation model and compared its performance
 w.r.t. two benchmarks and the market index. We achieve a Sharpe Ratio of 0.83 on out-ofsample
 data outperforming the market index and the benchmarks.
+
+This repository includes notebooks for data preparation, baseline model evaluation, neural
+network testing, and portfolio evaluation.
